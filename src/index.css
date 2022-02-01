@@ -1,0 +1,29 @@
+.heading{
+ text-align: center;
+}
+.rsidebutton{
+  float:right;
+}
+.peopleatt{
+  padding:80 px;
+  justify-content: space-between;
+    width:184px;
+  height:30px;
+  margin:10px;
+  text-align:left;
+}
+.cards{
+  float:left;
+}
+.cardbody{
+  padding:15px;
+  }
+
+#textform{
+  width:80%;
+  border-radius:4px;
+}
+.rightoptions p{
+  float:right;
+  display: inline;
+}
